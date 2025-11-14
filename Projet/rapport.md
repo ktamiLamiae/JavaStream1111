@@ -2,7 +2,7 @@
 ## Nom de projet :  Application de Matching Compétences-Opportunités avec IA
 ## Description du diagramme UML
 <img src="./UmlAI.png" width="600">
-Ce diagramme représente une application simple de matching compétences ↔ opportunités, utilisant héritage et une interface.
+Ce diagramme représente une application simple de matching compétences ↔ opportunités, utilisant héritage et une interface. ## (RAG(LLM))
 
 ## Interface
 
